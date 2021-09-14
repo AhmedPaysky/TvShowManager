@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TvShowManager</string>
+    <!--Common-->
+    <string name="error_network">Please check your Internet Connection.</string>
+    <string name="error_unexpected_message">Something went wrong, please try again.</string>
+
+
+</resources>
